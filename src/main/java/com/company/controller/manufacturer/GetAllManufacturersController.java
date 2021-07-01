@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 public class GetAllManufacturersController extends HttpServlet {
-    private static final Injector injector = Injector.getInstance("com/company");
+    private static final Injector injector = Injector.getInstance("com.company");
     private final ManufacturerService manufacturerService = (ManufacturerService) injector
             .getInstance(ManufacturerService.class);
 
