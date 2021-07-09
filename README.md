@@ -29,4 +29,7 @@ Project for managing common taxi park. Here you can add, delete, update cars, dr
 - Also in project is implemented IoC principe and Dependency Injection pattern by custom Injector class which use custom annotations. 
 
 ### **🦾 Technologies used**
-Java, JDBC, Servlets, HTML, CSS, JSP, JSTL, RDBMS MySQL, Apache Tomcat, Apache Maven
+- Java
+- JDBC, RDBMS MySQL
+- Servlets, HTML, CSS, JSP, JSTL
+- Apache Tomcat, Apache Maven
